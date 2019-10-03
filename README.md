@@ -8,4 +8,4 @@ The ESP output the status via USB to my Raspberry PI for homeassiant
  
  The IR sensor is connected to the ESP pin 5. The IR LED is covered up and the IR receiver is bent and pointed at the IR LED of the surrounded with putty and covered with black plastic (for now) to stop the IR from the sun. 
  
- 
+ ![Screen Shot](https://raw.githubusercontent.com/haufes/esp32_power_monitor/master/project_resources/Home%20Assistant%20power%20graph.png)
